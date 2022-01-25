@@ -10,3 +10,9 @@ header {
     background: cornsilk;
 }
 
+.lyrics {
+    display: block;
+    text-align: center;
+    padding: 30px;
+    
+}
